@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/grazielevasconcelos/cursodegotelefonia/pacotes/operadora"
-	"github.com/grazielevasconcelos/cursodegotelefonia/pacotes/prefixo"
+	"github.com/grazielevasconcelos/cursodego/cursodegotelefonia/pacotes/operadora"
+	"github.com/grazielevasconcelos/cursodego/cursodegotelefonia/pacotes/prefixo"
 )
 
 //NomeDoUsuario é o nome do usuario do sistema

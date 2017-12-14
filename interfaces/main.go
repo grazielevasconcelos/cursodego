@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/grazielevasconcelos/interfaces/model"
+	"github.com/grazielevasconcelos/cursodego/interfaces/model"
 )
 
 func main() {

@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/grazielevasconcelos/escrever_arquivos/model"
+	"github.com/grazielevasconcelos/cursodego/escrever_arquivos/model"
 )
 
 func main() {

@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/grazielevasconcelos/defer/model"
+	"github.com/grazielevasconcelos/cursodego/defer/model"
 )
 
 func main() {

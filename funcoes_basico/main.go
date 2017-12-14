@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/grazielevasconcelos/funcoes_basico/matematica"
+	"github.com/grazielevasconcelos/cursodego/funcoes_basico/matematica"
 )
 
 func main() {

@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/grazielevasconcelos/goroutines/model"
+	"github.com/grazielevasconcelos/cursodego/goroutines/model"
 )
 
 var orquestrador sync.WaitGroup

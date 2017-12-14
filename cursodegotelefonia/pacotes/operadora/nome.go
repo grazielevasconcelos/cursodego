@@ -1,6 +1,6 @@
 package operadora
 
-import "github.com/grazielevasconcelos/cursodegotelefonia/pacotes/prefixo"
+import "github.com/grazielevasconcelos/cursodego/cursodegotelefonia/pacotes/prefixo"
 import "strconv"
 
 //NomeOperadora representa o nome da operadora que se estar a usar

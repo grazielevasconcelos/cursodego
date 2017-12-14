@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/grazielevasconcelos/structs_avancado/model"
+	"github.com/grazielevasconcelos/cursodego/structs_avancado/model"
 )
 
 var cache map[string]model.Imovel

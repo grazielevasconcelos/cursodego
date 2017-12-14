@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/grazielevasconcelos/gobuild/model"
+	"github.com/grazielevasconcelos/cursodego/gobuild/model"
 )
 
 /*
@@ -17,10 +17,10 @@ import (
 			$GOOS=windows GOARCH=386 go build -o meuapp.exe
 
 		Gerar executável para linux(arquitetura ARM exemplo: raspberry) parâmetro -v exibe os fontes que estão sendo compilados
-		parametro path (github.com/grazielevasconcelos/gobuild) serve para quando não se está no pacote direcionar o pacote
+		parametro path (github.com/grazielevasconcelos/cursodego/gobuild) serve para quando não se está no pacote direcionar o pacote
 		que deseja a compilação:
 			$GOOS=linux   GOARCH=arm go build -o meuappraspberry -v
-			$GOOS=linux   GOARCH=arm go build -o meuappraspberry -v github.com/grazielevasconcelos/gobuild
+			$GOOS=linux   GOARCH=arm go build -o meuappraspberry -v github.com/grazielevasconcelos/cursodego/gobuild
 */
 func main() {
 	casa := model.Imovel{}
